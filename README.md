@@ -24,9 +24,10 @@ Este é um projeto de aplicação web Full-Stack que realiza a leitura de dados 
 * `dados.csv`: Base de dados de exemplo contendo informações de nomes, idades e salários.
 
 ## 📸 Demonstração
-
-![Screenshot do Projeto](link-da-sua-imagem)
-![Screenshot do Projeto](link-da-sua-imagem)
+### Tela Inicial:
+![Tela Inicial](imagens/tela-inicial.png)   
+### Tela Final:
+![Tela Final](imagens/tela-final.png)   
 
 ## 🔧 Como Executar
 
