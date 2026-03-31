@@ -22,3 +22,26 @@ Este é um projeto de aplicação web Full-Stack que realiza a leitura de dados 
 * `analise.py`: Módulo responsável pela lógica de dados. Contém as funções de carregamento do CSV e a lógica de tradução das estatísticas para Português.
 * `templates/index.html`: Interface visual que utiliza o motor Jinja2 para renderizar as tabelas de dados.
 * `dados.csv`: Base de dados de exemplo contendo informações de nomes, idades e salários.
+
+## 📸 Demonstração
+
+![Screenshot do Projeto](link-da-sua-imagem)
+![Screenshot do Projeto](link-da-sua-imagem)
+
+## 🔧 Como Executar
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/victornogueira11/analisador-de-dados.git
+
+2. **Instale as dependências:**
+   ```bash
+   pip install flask pandas
+
+3. **Inicie o servidor:**
+   ```bash
+   python main.py
+
+4. **Acesse o navegador:**
+   ```bash
+   http://127.0.0.1:5000 
